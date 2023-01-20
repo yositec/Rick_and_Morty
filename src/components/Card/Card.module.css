@@ -1,0 +1,58 @@
+.divprincipal{
+    color:beige;
+    height: auto;
+    width: 200px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.divimage{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.image{
+    
+    height: auto;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.button{
+    background-color: red;
+    border-bottom: 10px;
+    border-radius: 5px;
+    color:white;
+    float: right;
+    justify-items: normal;
+    position:relative;
+}
+
+
+.nombre{
+    position: absolute;
+    top: 165px;
+    left: 45px;
+    color:white;
+    background-color: black;
+    opacity: 0.6;
+    font-family: Arial Impact, Haettenschweiler, Arial Narrow Bold, sans-serif;
+    font-weight: 1000;    
+}
+
+.subtitle{
+    color:black;
+    display:flex;
+    justify-content:space-around;
+    list-style: none;
+    background-color: white;
+    font-weight: 1000;
+    opacity:0.7;
+
+}
+
+.contenedor{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+}

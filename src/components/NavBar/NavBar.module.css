@@ -1,0 +1,21 @@
+  .menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  width: 100vw;
+  height: 70px;
+  top: -2%;
+}
+
+.li{
+  
+  position:absolute;
+  top: 20px;
+  left: 80%;
+}
+.container {
+  background: #454545;
+  width: 100vw;
+  height: 70px;
+}
